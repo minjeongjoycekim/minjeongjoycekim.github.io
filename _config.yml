@@ -4,7 +4,7 @@ title           : "Minjeong Joyce Kim"
 title_separator : "-"
 name            : &name "Minjeong Joyce Kim"
 description     : &description "PhD Candidate in Economics, University of Michigan"
-url             : "https://mjoycekim.github.io"  # change if your GitHub username is different
+url             : "https://minjeongjoycekim.github.io"  # change if your GitHub username is different
 baseurl         : ""                             # no subpath (user site)
 repository      : ""                             # optional: "username/username.github.io"
 teaser          :                                # optional fallback teaser image in /images/
