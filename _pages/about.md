@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Minjeong Joyce Kim's website"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
