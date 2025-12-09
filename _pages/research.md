@@ -11,8 +11,7 @@ redirect_from:
 
 ## Publications
 
-* ["Civil Liberties in Times of Crisis"](https://www.aeaweb.org/articles?id=10.1257/app.20210736)  
-  with Marcella Alsan, Luca Braghieri, Sarah Eichmeyer, Stefanie Stantcheva, and David Y. Yang, 2023, *American Economic Journal: Applied Economics*.
+* ["Civil Liberties in Times of Crisis"](https://www.aeaweb.org/articles?id=10.1257/app.20210736), with Marcella Alsan, Luca Braghieri, Sarah Eichmeyer, Stefanie Stantcheva, and David Y. Yang, 2023, *American Economic Journal: Applied Economics*.
 
   <details>
     <summary><strong>Abstract (click to expand)</strong></summary>
@@ -21,8 +20,7 @@ redirect_from:
     </p>
   </details>
 
-* ["The Health of Democracies During the Pandemic: Results from a Randomized Survey Experiments"](https://www.aeaweb.org/articles?id=10.1257/pandp.20231093)  
-  with Marcella Alsan, Luca Braghieri, Sarah Eichmeyer, Stefanie Stantcheva, and David Y. Yang, 2023, *American Economic Review Papers and Proceedings*.
+* ["The Health of Democracies During the Pandemic: Results from a Randomized Survey Experiments"](https://www.aeaweb.org/articles?id=10.1257/pandp.20231093), with Marcella Alsan, Luca Braghieri, Sarah Eichmeyer, Stefanie Stantcheva, and David Y. Yang, 2023, *American Economic Review Papers and Proceedings*.
 
   <details>
     <summary><strong>Abstract (click to expand)</strong></summary>
@@ -35,8 +33,7 @@ redirect_from:
 
 ## Working Papers
 
-* The Value of In-Person Schooling During Times of Educational Disruption: Impacts on Students' Emotional Problems and Subjective Well-Being,  
-  with Youjin Hahn, Hyuncheol Bryant Kim, and Hee-Seung Yang, *(R&R – Economics of Education Review)*.
+* The Value of In-Person Schooling During Times of Educational Disruption: Impacts on Students' Emotional Problems and Subjective Well-Being, with Youjin Hahn, Hyuncheol Bryant Kim, and Hee-Seung Yang, *(R&R – Economics of Education Review)*.
 
   <details>
     <summary><strong>Abstract (click to expand)</strong></summary>
@@ -45,8 +42,7 @@ redirect_from:
     </p>
   </details>
 
-* Pandemics and the Polarization of Reality: Evidence from Europe and the United States,  
-  with Marcella Alsan, Stefanie Stantcheva, and David Y. Yang, *(R&R – The Journal of Politics)*.
+* Pandemics and the Polarization of Reality: Evidence from Europe and the United States, with Marcella Alsan, Stefanie Stantcheva, and David Y. Yang, *(R&R – The Journal of Politics)*.
 
   <details>
     <summary><strong>Abstract (click to expand)</strong></summary>
