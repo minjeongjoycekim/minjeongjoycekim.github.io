@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV](https://drive.google.com/file/d/1yW4cfsjIoOfgGVsDudjm0zagqpmm5HpU/view/).
+[Download CV](https://drive.google.com/file/d/1yW4cfsjIoOfgGVsDudjm0zagqpmm5HpU/view/)
 
 ### Preview
 
