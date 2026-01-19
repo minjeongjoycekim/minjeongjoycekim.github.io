@@ -11,7 +11,7 @@ redirect_from:
 
 ## Publications
 
-[Civil Liberties in Times of Crisis](https://www.aeaweb.org/articles?id=10.1257/pandp.20231093) (with Marcella Alsan, Luca Braghieri, Sarah Eichmeyer, Stefanie Stantcheva, and David Y. Yang), 2023, *American Economic Journal: Applied Economics*.  
+[Civil Liberties in Times of Crisis](https://www.aeaweb.org/articles?id=10.1257/app.20210736) (with Marcella Alsan, Luca Braghieri, Sarah Eichmeyer, Stefanie Stantcheva, and David Y. Yang), 2023, *American Economic Journal: Applied Economics*.  
 
 <details markdown="1">
 <summary><strong>Abstract (click to expand)</strong></summary>
