@@ -52,8 +52,8 @@ During the COVID-19 pandemic, citizens of democratic nations faced a trade-off b
 
 ## Work in Progress
 
-Optimal Nonlinear Taxation with Education as Both Capital and Signal  
+Optimal Income Taxation and Education Subsidies When Education Improves the Signal About Ability  
 
-The Impacts of Zero Personal Income Tax Policy on Youth Labor Supply and Educational Outcomes: Evidence from Poland (with Michal Myck) 
+Impacts of Zero Personal Income Tax Policy on Young Adults' Labor Market and Educational Outcomes: Evidence from Poland (with Artur Król and Michal Myck) 
 
 The Effects and Dynamics of Blind Hiring (with Hee Sung Kim and Seung Yong Sung)
