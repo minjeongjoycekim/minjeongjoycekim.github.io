@@ -39,3 +39,28 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+---
+---
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+/* Custom font sizing */
+body, p, li {
+  font-size: 16px !important;
+}
+
+h2 {
+  font-size: 24px !important;
+  margin-top: 2em;
+  margin-bottom: 1em;
+}
+
+details summary {
+  font-size: 16px !important;
+}
+
+.author__bio {
+  font-size: 16px !important;
+}
