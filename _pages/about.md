@@ -34,7 +34,7 @@ Concerns have been raised about the "demise of democracy," possibly accelerated 
 
 ## Working Papers
 
-The Value of In-Person Schooling During Times of Educational Disruption: Impacts on Students' Emotional Problems and Subjective Well-Being (with Youjin Hahn, Hyuncheol Bryant Kim, and Hee-Seung Yang), *R&R: Economics of Education Review*.
+The Value of In-Person Schooling During Times of Educational Disruption: Impacts on Students' Emotional Problems and Subjective Well-Being (with Youjin Hahn, Hyuncheol Bryant Kim, and Hee-Seung Yang), *Accepted: Economics of Education Review*.
 <details markdown="1">
 <summary><strong>Abstract (click to expand)</strong></summary>
 This study examines the effects of large-scale school closures on the emotional problems and subjective well-being among primary school students in South Korea. Using administrative records on in-person school days and panel survey data from 2018 to 2022, we find that more in-person schooling reduces students' emotional problems—such as aggression, social withdrawal, and psychosomatic symptoms—and improves self-reported health. These gains are smaller for students with lower socioeconomic status, highlighting inequalities in the emotional benefits of school reopening. Importantly, the benefits persist: students with greater in-person exposure in 2020 continued to report better emotional health and higher subjective well-being for at least two subsequent years. We also find that stronger interpersonal relationships and healthier time use are associated with these sustained improvements.
