@@ -22,6 +22,7 @@ My research interests are at the intersection of public and labor economics. I a
 We study people's willingness to trade off civil liberties for increased health security in the context of the COVID-19 pandemic by deploying representative surveys involving around 550,000 responses across 15 countries. We document significant heterogeneity across groups in willingness to sacrifice rights: citizens disadvantaged by income, education, or race are less willing to sacrifice rights than their more advantaged peers in every country. Leveraging naturally occurring variation and experimental approaches, we estimate a one standard deviation increase in health insecurity increases willingness to sacrifice civil liberties by 68–83 percent of the difference between the average Chinese and US citizen.
 </details>
 
+<br>
 
 [The Health of Democracies During the Pandemic: Results from a Randomized Survey Experiments](https://www.aeaweb.org/articles?id=10.1257/pandp.20231093) (with Marcella Alsan, Luca Braghieri, Sarah Eichmeyer, Stefanie Stantcheva, and David Y. Yang), 2023, *American Economic Review Papers and Proceedings*.  
 <details markdown="1">
