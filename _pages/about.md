@@ -16,6 +16,14 @@ My research interests are at the intersection of public and labor economics. I a
 
 ## Publications
 
+[The Value of In-Person Schooling During Times of Educational Disruption: Impacts on Students' Emotional Problems and Subjective Well-Being](https://www.sciencedirect.com/science/article/pii/S0272775726000300) (with Youjin Hahn, Hyuncheol Bryant Kim, and Hee-Seung Yang), 2026, *Economics of Education Review*.
+<details markdown="1">
+<summary><strong>Abstract (click to expand)</strong></summary>
+This study examines the effects of large-scale school closures on the emotional problems and subjective well-being among primary school students in South Korea. Using administrative records on in-person school days and panel survey data from 2018 to 2022, we find that more in-person schooling during the pandemic reduces students’ emotional problems – such as aggression, social withdrawal, and psychosomatic symptoms – and improves self-reported health. These gains are smaller for students with lower socioeconomic status, highlighting inequalities in the emotional benefits of school reopening. Importantly, the benefits persist: students with greater in-person exposure in 2020 continued to report better emotional health and higher subjective well-being for at least two subsequent years. We also find that stronger interpersonal relationships and healthier time use are associated with these sustained improvements.
+</details>
+
+<br>
+
 [Civil Liberties in Times of Crisis](https://www.aeaweb.org/articles?id=10.1257/app.20210736) (with Marcella Alsan, Luca Braghieri, Sarah Eichmeyer, Stefanie Stantcheva, and David Y. Yang), 2023, *American Economic Journal: Applied Economics*.  
 <details markdown="1">
 <summary><strong>Abstract (click to expand)</strong></summary>
@@ -33,14 +41,6 @@ Concerns have been raised about the "demise of democracy," possibly accelerated 
 <hr>
 
 ## Working Papers
-
-The Value of In-Person Schooling During Times of Educational Disruption: Impacts on Students' Emotional Problems and Subjective Well-Being (with Youjin Hahn, Hyuncheol Bryant Kim, and Hee-Seung Yang), *Accepted: Economics of Education Review*.
-<details markdown="1">
-<summary><strong>Abstract (click to expand)</strong></summary>
-This study examines the effects of large-scale school closures on the emotional problems and subjective well-being among primary school students in South Korea. Using administrative records on in-person school days and panel survey data from 2018 to 2022, we find that more in-person schooling reduces students' emotional problems—such as aggression, social withdrawal, and psychosomatic symptoms—and improves self-reported health. These gains are smaller for students with lower socioeconomic status, highlighting inequalities in the emotional benefits of school reopening. Importantly, the benefits persist: students with greater in-person exposure in 2020 continued to report better emotional health and higher subjective well-being for at least two subsequent years. We also find that stronger interpersonal relationships and healthier time use are associated with these sustained improvements.
-</details>
-
-<br>
 
 Pandemics and the Polarization of Reality: Evidence from Europe and the United States (with Marcella Alsan, Stefanie Stantcheva, and David Y. Yang), *R&R: The Journal of Politics*.
 <details markdown="1">
