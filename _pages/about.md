@@ -52,8 +52,8 @@ During the COVID-19 pandemic, citizens of democratic nations faced a trade-off b
 
 ## Work in Progress
 
-Optimal Income Taxation and Education Subsidies When Education Improves Signals
+Optimal Income Taxation and Education Subsidies When Education Improves Signals _[Draft Coming Soon!]_
 
-Consequences of Exempting Young People from Income Tax: Earnings, Employment, and Education (with Artur Król and Michal Myck) 
+Consequences of Exempting Young People from Income Tax: Earnings, Employment, and Education (with Artur Król and Michal Myck) _[Draft Coming Soon!]_
 
-The Effects and Dynamics of Blind Hiring (with Hee Sung Kim and Seung Yong Sung)
+The Effects and Dynamics of Blind Hiring (with Hee Sung Kim and Seung Yong Sung) _[Draft Coming Soon!]_
