@@ -110,7 +110,7 @@ author_profile: true
   
   <div class="reference-card">
     <h2>
-    <a href="[https://fordschool.umich.edu/faculty/justin-holz](https://lsa.umich.edu/econ/people/faculty/bzafar.html)" target="_blank" rel="noopener">
+    <a href="https://lsa.umich.edu/econ/people/faculty/bzafar.html" target="_blank" rel="noopener">
       Basit Zafar
     </a>
   </h2>
