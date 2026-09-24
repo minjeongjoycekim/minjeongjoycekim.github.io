@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "References"
+title: ""
 permalink: /references/
 author_profile: true
 ---
