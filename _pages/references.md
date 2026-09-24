@@ -51,13 +51,15 @@ author_profile: true
 }
 </style>
 
-<div class="reference-card">
-  <h2>
-    <a href="https://lsa.umich.edu/econ/people/faculty/jrhines.html" target="_blank" rel="noopener">
-      James Hines Jr.
-    </a>
-    <span class="reference-role">(Co-chair)</span>
-  </h2>
+<div class="references-grid">
+
+  <div class="reference-card">
+    <h2>
+      <a href="https://lsa.umich.edu/econ/people/faculty/jrhines.html" target="_blank" rel="noopener">
+        James Hines Jr.
+      </a>
+      <span class="reference-role">(Co-chair)</span>
+    </h2>
     <p>
       Department of Economics and<br>
       Law School<br>
@@ -66,13 +68,13 @@ author_profile: true
     </p>
   </div>
 
-<div class="reference-card">
+  <div class="reference-card">
     <h2>
-    <a href="https://michiganross.umich.edu/faculty-research/faculty/joel-slemrod" target="_blank" rel="noopener">
-      Joel Slemrod
-    </a>
-    <span class="reference-role">(Co-chair)</span>
-  </h2>
+      <a href="https://michiganross.umich.edu/faculty-research/faculty/joel-slemrod" target="_blank" rel="noopener">
+        Joel Slemrod
+      </a>
+      <span class="reference-role">(Co-chair)</span>
+    </h2>
     <p>
       Department of Economics and<br>
       Stephen M. Ross School of Business<br>
@@ -80,26 +82,26 @@ author_profile: true
       <a href="mailto:jslemrod@umich.edu">jslemrod@umich.edu</a>
     </p>
   </div>
-  
-<div class="reference-card">
-  <h2>
-    <a href="https://rse.anu.edu.au/people/ashley-craig" target="_blank" rel="noopener">
-      Ashley Craig
-    </a>
-  </h2>
-  <p>
-    Research School of Economics<br>
-    Australian National University<br>
-    <a href="mailto:ashley.craig@anu.edu.au">ashley.craig@anu.edu.au</a>
-  </p>
-</div>
 
   <div class="reference-card">
     <h2>
-    <a href="https://fordschool.umich.edu/faculty/justin-holz" target="_blank" rel="noopener">
-      Justin Holz
-    </a>
-  </h2>
+      <a href="https://rse.anu.edu.au/people/ashley-craig" target="_blank" rel="noopener">
+        Ashley Craig
+      </a>
+    </h2>
+    <p>
+      Research School of Economics<br>
+      Australian National University<br>
+      <a href="mailto:ashley.craig@anu.edu.au">ashley.craig@anu.edu.au</a>
+    </p>
+  </div>
+
+  <div class="reference-card">
+    <h2>
+      <a href="https://fordschool.umich.edu/faculty/justin-holz" target="_blank" rel="noopener">
+        Justin Holz
+      </a>
+    </h2>
     <p>
       Ford School of Public Policy<br>
       University of Michigan<br>
@@ -107,17 +109,17 @@ author_profile: true
     </p>
   </div>
 
-  
   <div class="reference-card">
     <h2>
-    <a href="https://lsa.umich.edu/econ/people/faculty/bzafar.html" target="_blank" rel="noopener">
-      Basit Zafar
-    </a>
-  </h2>
+      <a href="https://lsa.umich.edu/econ/people/faculty/bzafar.html" target="_blank" rel="noopener">
+        Basit Zafar
+      </a>
+    </h2>
     <p>
       Department of Economics<br>
       University of Michigan<br>
       <a href="mailto:bzafar@umich.edu">bzafar@umich.edu</a>
     </p>
   </div>
+
 </div>
