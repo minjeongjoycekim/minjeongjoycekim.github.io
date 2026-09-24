@@ -17,7 +17,7 @@ My research interests are at the intersection of public and labor economics. I a
 ## Publications
 
 [<strong>The Value of In-Person Schooling During Times of Educational Disruption: Impacts on Students' Emotional Problems and Subjective Well-Being</strong>](https://www.sciencedirect.com/science/article/pii/S0272775726000300) <br>
-<span style="color: #808080;">(joint with Youjin Hahn, Hyuncheol Bryant Kim, and Hee-Seung Yang)</span> <br>
+<span style="color: #808080;">(joint with [Youjin Hahn](https://sites.google.com/site/youjinhahn/), [Hyuncheol Bryant Kim](https://sites.google.com/site/hk2405/home), and [Hee-Seung Yang](https://sites.google.com/site/heeseungyang/))</span> <br>
 *Economics of Education Review, 2026*
 <details markdown="1">
 <summary>Abstract (click to expand)</summary>
@@ -27,7 +27,7 @@ This study examines the effects of large-scale school closures on the emotional 
 <br>
 
 [<strong>Civil Liberties in Times of Crisis</strong>](https://www.aeaweb.org/articles?id=10.1257/app.20210736) <br>
-<span style="color: #808080;">(joint with Marcella Alsan, Luca Braghieri, Sarah Eichmeyer, Stefanie Stantcheva, and David Y. Yang)</span> <br>
+<span style="color: #808080;">(joint with [Marcella Alsan](https://economics.stanford.edu/people/marcella-alsan), [Luca Braghieri](https://dec.unibocconi.eu/faculty/luca-braghieri), [Sarah Eichmeyer](https://economics.unibocconi.eu/faculty/sarah-beate-eichmeyer), [Stefanie Stantcheva](https://www.economics.harvard.edu/people/stefanie-stantcheva), and [David Y. Yang](https://www.economics.harvard.edu/people/david-yang))</span> <br>
 *American Economic Journal: Applied Economics, 2023*  
 <details markdown="1">
 <summary>Abstract (click to expand)</summary>
@@ -37,7 +37,7 @@ We study people's willingness to trade off civil liberties for increased health 
 <br>
 
 [<strong>The Health of Democracies During the Pandemic: Results from a Randomized Survey Experiment</strong>](https://www.aeaweb.org/articles?id=10.1257/pandp.20231093) <br> 
-<span style="color: #808080;">(joint with Marcella Alsan, Luca Braghieri, Sarah Eichmeyer, Stefanie Stantcheva, and David Y. Yang)</span> <br>
+<span style="color: #808080;">(joint with [Marcella Alsan](https://economics.stanford.edu/people/marcella-alsan), [Luca Braghieri](https://dec.unibocconi.eu/faculty/luca-braghieri), [Sarah Eichmeyer](https://economics.unibocconi.eu/faculty/sarah-beate-eichmeyer), [Stefanie Stantcheva](https://www.economics.harvard.edu/people/stefanie-stantcheva), and [David Y. Yang](https://www.economics.harvard.edu/people/david-yang))</span> <br>
 *American Economic Review Papers and Proceedings, 2023*.  
 <details markdown="1">
 <summary>Abstract (click to expand)</summary>
@@ -49,7 +49,7 @@ Concerns have been raised about the "demise of democracy," possibly accelerated 
 ## Working Papers
 
 <strong>Pandemics and the Polarization of Reality: Evidence from Europe and the United States</strong> <br> 
-<span style="color: #808080;">(joint with Marcella Alsan, Stefanie Stantcheva, and David Y. Yang)</span> <br>
+<span style="color: #808080;">(joint with [Marcella Alsan](https://economics.stanford.edu/people/marcella-alsan), [Stefanie Stantcheva](https://www.economics.harvard.edu/people/stefanie-stantcheva), and [David Y. Yang](https://www.economics.harvard.edu/people/david-yang))</span> <br>
 *Conditionally Accepted: The Journal of Politics*.
 <details markdown="1">
 <summary>Abstract (click to expand)</summary>
