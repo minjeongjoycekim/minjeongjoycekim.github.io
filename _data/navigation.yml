@@ -1,4 +1,7 @@
-# main links links
-main: 
+# Main navigation
+main:
   - title: "CV"
     url: /cv/
+
+  - title: "References"
+    url: /references/
