@@ -16,25 +16,27 @@ My research interests are at the intersection of public and labor economics. I a
 
 ## Publications
 
-[The Value of In-Person Schooling During Times of Educational Disruption: Impacts on Students' Emotional Problems and Subjective Well-Being](https://www.sciencedirect.com/science/article/pii/S0272775726000300) (with Youjin Hahn, Hyuncheol Bryant Kim, and Hee-Seung Yang), 2026, *Economics of Education Review*.
+[<strong>The Value of In-Person Schooling During Times of Educational Disruption: Impacts on Students' Emotional Problems and Subjective Well-Being</strong>](https://www.sciencedirect.com/science/article/pii/S0272775726000300) <br>
+<span style="color: #666666;">joint with Youjin Hahn, Hyuncheol Bryant Kim, and Hee-Seung Yang</span> <br>
+*Economics of Education Review, 2026*
 <details markdown="1">
-<summary><strong>Abstract (click to expand)</strong></summary>
+<summary>Abstract (click to expand)</summary>
 This study examines the effects of large-scale school closures on the emotional problems and subjective well-being among primary school students in South Korea. Using administrative records on in-person school days and panel survey data from 2018 to 2022, we find that more in-person schooling during the pandemic reduces students’ emotional problems – such as aggression, social withdrawal, and psychosomatic symptoms – and improves self-reported health. These gains are smaller for students with lower socioeconomic status, highlighting inequalities in the emotional benefits of school reopening. Importantly, the benefits persist: students with greater in-person exposure in 2020 continued to report better emotional health and higher subjective well-being for at least two subsequent years. We also find that stronger interpersonal relationships and healthier time use are associated with these sustained improvements.
 </details>
 
 <br>
 
-[Civil Liberties in Times of Crisis](https://www.aeaweb.org/articles?id=10.1257/app.20210736) (with Marcella Alsan, Luca Braghieri, Sarah Eichmeyer, Stefanie Stantcheva, and David Y. Yang), 2023, *American Economic Journal: Applied Economics*.  
+[<strong>Civil Liberties in Times of Crisis</strong>](https://www.aeaweb.org/articles?id=10.1257/app.20210736) (with Marcella Alsan, Luca Braghieri, Sarah Eichmeyer, Stefanie Stantcheva, and David Y. Yang), 2023, *American Economic Journal: Applied Economics*.  
 <details markdown="1">
-<summary><strong>Abstract (click to expand)</strong></summary>
+<summary>Abstract (click to expand)</summary>
 We study people's willingness to trade off civil liberties for increased health security in the context of the COVID-19 pandemic by deploying representative surveys involving around 550,000 responses across 15 countries. We document significant heterogeneity across groups in willingness to sacrifice rights: citizens disadvantaged by income, education, or race are less willing to sacrifice rights than their more advantaged peers in every country. Leveraging naturally occurring variation and experimental approaches, we estimate a one standard deviation increase in health insecurity increases willingness to sacrifice civil liberties by 68–83 percent of the difference between the average Chinese and US citizen.
 </details>
 
 <br>
 
-[The Health of Democracies During the Pandemic: Results from a Randomized Survey Experiments](https://www.aeaweb.org/articles?id=10.1257/pandp.20231093) (with Marcella Alsan, Luca Braghieri, Sarah Eichmeyer, Stefanie Stantcheva, and David Y. Yang), 2023, *American Economic Review Papers and Proceedings*.  
+[<strong>The Health of Democracies During the Pandemic: Results from a Randomized Survey Experiment</strong>](https://www.aeaweb.org/articles?id=10.1257/pandp.20231093) (with Marcella Alsan, Luca Braghieri, Sarah Eichmeyer, Stefanie Stantcheva, and David Y. Yang), 2023, *American Economic Review Papers and Proceedings*.  
 <details markdown="1">
-<summary><strong>Abstract (click to expand)</strong></summary>
+<summary>Abstract (click to expand)</summary>
 Concerns have been raised about the "demise of democracy," possibly accelerated by pandemic-related restrictions. Using a survey experiment involving 8,206 respondents from 5 Western democracies, we find that subjects randomly exposed to information regarding civil liberties infringements undertaken by China and South Korea to contain COVID-19 became less willing to sacrifice rights and more worried about their long-term erosion. However, our treatment did not increase support for democratic procedures more generally despite our prior evidence that pandemic-related health risks diminished such support. These results suggest that the start of the COVID-19 crisis was a particularly vulnerable time for democracies.
 </details>
 
