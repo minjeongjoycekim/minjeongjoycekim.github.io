@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<div style="font-size: 0.9em;">
+  
 I am a PhD Candidate in Economics at the University of Michigan.
 
 My research interests are at the intersection of public and labor economics. I am particularly interested in the topics of taxation, human capital, inequality, labor market discrimination, and political economy.
@@ -57,3 +58,5 @@ Optimal Income Taxation and Education Subsidies When Education Improves Signals 
 Consequences of Exempting Young People from Income Tax: Earnings, Employment, and Education (with Artur Król and Michal Myck) _[Draft Coming Soon!]_
 
 The Effects and Dynamics of Blind Hiring (with Hee Sung Kim and Seung Yong Sung) _[Draft Coming Soon!]_
+
+</div>
