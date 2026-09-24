@@ -60,11 +60,12 @@ During the COVID-19 pandemic, citizens of democratic nations faced a trade-off b
 
 ## Work in Progress
 
-Should Education Be Taxed or Subsidized? Optimal Policies with Signaling and Information _[Draft Coming Soon!]_
+**Should Education Be Taxed or Subsidized? Optimal Policies with Signaling and Information** _[Draft Coming Soon!]_ <br>
+<span style="color: #DC143C;">*Job Market Paper*.</span> 
 
-Consequences of Exempting Young People from Income Tax: Earnings, Employment, and Education _[Draft Coming Soon!]_ <br>
+**Consequences of Exempting Young People from Income Tax: Earnings, Employment, and Education** _[Draft Coming Soon!]_ <br>
 <span style="color: #808080;">(joint with Artur Król and Michal Myck)</span> 
 
-Beyond the Résumé: Blind Hiring in a Multi-Stage Hiring Process _[Draft Coming Soon!]_ <br>
+**Beyond the Résumé: Blind Hiring in a Multi-Stage Hiring Process** _[Draft Coming Soon!]_ <br>
 <span style="color: #808080;">(joint with Hee Sung Kim and Seung Yong Sung)</span>
 
