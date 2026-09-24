@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
   
-I am a PhD Candidate in Economics at the University of Michigan.
+I am a PhD Candidate in Economics at the University of Michigan. **I am on the 2026-2027 job market**.
 
 My research interests are at the intersection of public and labor economics. I am particularly interested in the topics of taxation, human capital, inequality, labor market discrimination, and political economy.
 
@@ -60,8 +60,11 @@ During the COVID-19 pandemic, citizens of democratic nations faced a trade-off b
 
 ## Work in Progress
 
-Optimal Income Taxation and Education Subsidies When Education Improves Signals _[Draft Coming Soon!]_
+Should Education Be Taxed or Subsidized? Optimal Policies with Signaling and Information _[Draft Coming Soon!]_
 
-Consequences of Exempting Young People from Income Tax: Earnings, Employment, and Education (with Artur Król and Michal Myck) _[Draft Coming Soon!]_
+Consequences of Exempting Young People from Income Tax: Earnings, Employment, and Education _[Draft Coming Soon!]_ <br>
+<span style="color: #808080;">(joint with Artur Król and Michal Myck)</span> 
 
-The Effects and Dynamics of Blind Hiring (with Hee Sung Kim and Seung Yong Sung) _[Draft Coming Soon!]_
+Beyond the Résumé: Blind Hiring in a Multi-Stage Hiring Process _[Draft Coming Soon!]_ <br>
+<span style="color: #808080;">(joint with Hee Sung Kim and Seung Yong Sung)</span>
+
