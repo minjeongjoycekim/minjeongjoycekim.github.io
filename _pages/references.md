@@ -55,6 +55,19 @@ author_profile: true
 
   <div class="reference-card">
     <h2>
+      <a href="https://rse.anu.edu.au/people/ashley-craig" target="_blank" rel="noopener">
+        Ashley Craig
+      </a>
+    </h2>
+    <p>
+      Research School of Economics<br>
+      Australian National University<br>
+      <a href="mailto:ashley.craig@anu.edu.au">ashley.craig@anu.edu.au</a>
+    </p>
+  </div>
+  
+  <div class="reference-card">
+    <h2>
       <a href="https://lsa.umich.edu/econ/people/faculty/jrhines.html" target="_blank" rel="noopener">
         James Hines Jr.
       </a>
@@ -83,17 +96,6 @@ author_profile: true
     </p>
   </div>
 
-  <div class="reference-card">
-    <h2>
-      <a href="https://rse.anu.edu.au/people/ashley-craig" target="_blank" rel="noopener">
-        Ashley Craig
-      </a>
-    </h2>
-    <p>
-      Research School of Economics<br>
-      Australian National University<br>
-      <a href="mailto:ashley.craig@anu.edu.au">ashley.craig@anu.edu.au</a>
-    </p>
-  </div>
+  
 
 </div>
