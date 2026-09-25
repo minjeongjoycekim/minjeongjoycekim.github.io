@@ -95,7 +95,33 @@ author_profile: true
       <a href="mailto:jslemrod@umich.edu">jslemrod@umich.edu</a>
     </p>
   </div>
-
   
+  <div class="reference-card">
+    <h2>
+      <a href="https://lsa.umich.edu/econ/people/faculty/bzafar.html" target="_blank" rel="noopener">
+        Basit Zafar
+      </a>
+    </h2>
+    <p>
+      Department of Economics<br>
+      University of Michigan<br>
+      <a href="mailto:bzafar@umich.edu">bzafar@umich.edu</a>
+    </p>
+  </div> 
+  
+   <div class="reference-card">
+    <h2>
+      <a href="https://fordschool.umich.edu/faculty/justin-holz" target="_blank" rel="noopener">
+        Justin Holz
+      </a>
+    </h2>
+    <p>
+      Ford School of Public Policy<br>
+      University of Michigan<br>
+      <a href="mailto:holzj@umich.edu">holzj@umich.edu</a>
+    </p>
+  </div>
+
+
 
 </div>
