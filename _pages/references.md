@@ -111,14 +111,15 @@ author_profile: true
   
    <div class="reference-card">
     <h2>
+     Placement service: 
       <a href="https://fordschool.umich.edu/faculty/justin-holz" target="_blank" rel="noopener">
-        Justin Holz
-      </a>
+      Kaspar Wuthrich
+      </a>(Director) / Julie Heintz (Coordinator)
     </h2>
     <p>
-      Ford School of Public Policy<br>
+      Department of Economics<br>
       University of Michigan<br>
-      <a href="mailto:holzj@umich.edu">holzj@umich.edu</a>
+      <a href="mailto:Econ-PhDplacements@umich.edu">Econ-PhDplacements@umich.edu</a>
     </p>
   </div>
 
