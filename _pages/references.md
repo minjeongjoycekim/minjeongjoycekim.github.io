@@ -111,10 +111,10 @@ author_profile: true
   
    <div class="reference-card">
     <h2>
-     Placement service: 
+     Placement service: <br>
       <a href="https://fordschool.umich.edu/faculty/justin-holz" target="_blank" rel="noopener">
       Kaspar Wuthrich
-      </a>(Director) / Julie Heintz (Coordinator)
+      </a>(Director) <br> Julie Heintz (Coordinator)
     </h2>
     <p>
       Department of Economics<br>
