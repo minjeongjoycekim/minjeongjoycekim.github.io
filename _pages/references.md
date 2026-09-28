@@ -8,7 +8,7 @@ author_profile: true
 <style>
 .page__content .references-grid {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-columns: 1fr 1.2fr 1fr;
   gap: 2.25em 1.5em;
   margin-top: 1.5em;
   text-align: center;
