@@ -111,7 +111,7 @@ author_profile: true
   
    <div class="reference-card">
     <h2>
-     Placement service: <br>
+     Placement Service: <br>
       <a href="https://fordschool.umich.edu/faculty/justin-holz" target="_blank" rel="noopener">
       Kaspar Wuthrich
       </a>(Director) <br> Julie Heintz (Coordinator)
