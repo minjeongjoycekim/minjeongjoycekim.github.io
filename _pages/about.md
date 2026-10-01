@@ -17,7 +17,6 @@ My research interests are at the intersection of public and labor economics. I a
 ## Job Market Paper
 
 **Should Education Be Taxed or Subsidized? Optimal Policies with Signaling and Information** _[Draft Coming Soon!]_ <br>
-<span style="color: #DC143C;">*Job Market Paper*.</span> 
 
 ## Publications
 
