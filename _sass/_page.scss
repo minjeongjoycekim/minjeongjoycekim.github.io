@@ -18,9 +18,15 @@
 
 .page {
   @include breakpoint($large) {
-    width: calc(100% - 290px);
+    width: calc(100% - 275px);
     float: right;
-    padding-left: 40px;
+
+    /* Do not add extra space inside or beside the column */
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 0;
+    padding-right: 0;
+
   }
 }
 
