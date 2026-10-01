@@ -14,6 +14,11 @@ My research interests are at the intersection of public and labor economics. I a
 
 **Contact**: joycekim@umich.edu
 
+## Job Market Paper
+
+**Should Education Be Taxed or Subsidized? Optimal Policies with Signaling and Information** _[Draft Coming Soon!]_ <br>
+<span style="color: #DC143C;">*Job Market Paper*.</span> 
+
 ## Publications
 
 [<strong>The Value of In-Person Schooling During Times of Educational Disruption: Impacts on Students' Emotional Problems and Subjective Well-Being</strong>](https://www.sciencedirect.com/science/article/pii/S0272775726000300) <br>
@@ -59,9 +64,6 @@ During the COVID-19 pandemic, citizens of democratic nations faced a trade-off b
 <hr>
 
 ## Work in Progress
-
-**Should Education Be Taxed or Subsidized? Optimal Policies with Signaling and Information** _[Draft Coming Soon!]_ <br>
-<span style="color: #DC143C;">*Job Market Paper*.</span> 
 
 **Consequences of Exempting Young People from Income Tax: Earnings, Employment, and Education** _[Draft Coming Soon!]_ <br>
 <span style="color: #808080;">(joint with Artur Król and Michal Myck)</span> 
