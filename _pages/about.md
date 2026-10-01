@@ -12,7 +12,7 @@ I am a PhD Candidate in Economics at the University of Michigan. **I am on the 2
 
 My research interests are at the intersection of public and labor economics. I am particularly interested in the topics of taxation, human capital, inequality, labor market discrimination, and political economy.
 
-**Contact**: joycekim@umich.edu **|** **CV**: [Download Here](/files/Minjeong_Joyce_Kim_CV.pdf)
+**Contact**: <a href="mailto:joycekim@umich.edu">joycekim@umich.edu</a>  / **CV**: [Download Here](/files/Minjeong_Joyce_Kim_CV.pdf)
 
 ## Job Market Paper
 
