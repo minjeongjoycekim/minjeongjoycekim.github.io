@@ -17,10 +17,8 @@
 }
 
 .page {
-  font-size: 0.85em;
-
   @include breakpoint($large) {
-    width: calc(100% - 260px);
+    width: calc(100% - 290px);
     float: right;
     padding-left: 40px;
   }
