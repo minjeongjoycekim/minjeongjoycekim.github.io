@@ -14,10 +14,9 @@
   margin-bottom: 1em;
 
    @include breakpoint($large) {
-    width: 220px;
+    width: 250px;
     float: left;
    }
-  }
 
 
   @include breakpoint($x-large) {
@@ -72,7 +71,8 @@
 
   img {
     display: block;
-    max-width: 250px;
+    width: 100%;
+    max-width: none;
     height: auto;
     border-radius: 0;
     padding: 0;
@@ -80,12 +80,12 @@
   }
 
   @include breakpoint($large) {
-    width: auto;
-    height: auto;
+    width: 250px;
     margin-bottom: 0;
 
     img {
-      max-width: 250px;
+      width: 250px;
+      max-width: none;
     }
   }
 }
