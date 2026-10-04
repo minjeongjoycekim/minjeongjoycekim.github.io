@@ -70,3 +70,4 @@ During the COVID-19 pandemic, citizens of democratic nations faced a trade-off b
 **Beyond the Résumé: Blind Hiring in a Multi-Stage Hiring Process** _[Draft Coming Soon!]_ <br>
 <span style="color: #808080;">(joint with Hee Sung Kim and Seung Yong Sung)</span>
 
+**Occupation-Specific Tax Exemption and Educational Choices** 
