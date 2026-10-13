@@ -69,7 +69,7 @@ author_profile: true
   <div class="reference-card">
     <h2>
       <a href="https://lsa.umich.edu/econ/people/faculty/jrhines.html" target="_blank" rel="noopener">
-        James Hines Jr.
+        James Hines Jr. (Co-Chair)
       </a>
       <span class="reference-role"></span>
     </h2>
@@ -83,8 +83,22 @@ author_profile: true
 
   <div class="reference-card">
     <h2>
+      <a href="https://fordschool.umich.edu/faculty/justin-holz" target="_blank" rel="noopener">
+        Justin Holz
+      </a>
+      <span class="reference-role"></span>
+    </h2>
+    <p>
+      Gerald R. Ford School of Public Policy
+      University of Michigan<br>
+      <a href="mailto:holzj@umich.edu">holzj@umich.edu</a>
+    </p>
+  </div>
+
+  <div class="reference-card">
+    <h2>
       <a href="https://michiganross.umich.edu/faculty-research/faculty/joel-slemrod" target="_blank" rel="noopener">
-        Joel Slemrod
+        Joel Slemrod (Co-Chair)
       </a>
       <span class="reference-role"></span>
     </h2>
