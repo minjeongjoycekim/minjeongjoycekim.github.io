@@ -64,14 +64,24 @@ Concerns have been raised about the "demise of democracy," possibly accelerated 
 During the COVID-19 pandemic, citizens of democratic nations faced a trade-off between civil liberties and public welfare as governments implemented measures to protect public health. Using surveys conducted at multiple intervals across five Western democracies, we examine how citizens' views on this trade-off evolved. We find that early in the pandemic, there was little partisan divide in any country, and objective COVID-19 risk was the leading predictor of willingness to sacrifice civil liberties. In later years, however, political affiliation became the primary factor explaining views toward this trade-off in the U.S. only. In Europe, views continued to be influenced mainly by disease prevalence. We also find the partisan gap among views in the U.S. is narrowed once conditioning on subjective beliefs about disease risk—suggesting that different interpretations of the same facts about the disease contributed to the divide.
 </details>
 
+<br>
+
+<strong>Consequences of Exempting Young People from Income Tax: Earnings, Employment, and Education</strong> _[Draft Coming Soon!]_<br> 
+<span style="color: #808080;">(joint with Artur Król and Michal Myck)</span> <br>
+<details markdown="1">
+<summary>Abstract (click to expand)</summary>
+</details>
+
+<br>
+
+<strong>Beyond the Résumé: Blind Hiring in a Multi-Stage Hiring Process</strong> _[Draft Coming Soon!]_<br> 
+<span style="color: #808080;">(joint with Hee Sung Kim and Seung Yong Sung)</span> <br>
+<details markdown="1">
+<summary>Abstract (click to expand)</summary>
+</details>
+
 <hr>
 
 ## Work in Progress
-
-**Consequences of Exempting Young People from Income Tax: Earnings, Employment, and Education** _[Draft Coming Soon!]_ <br>
-<span style="color: #808080;">(joint with Artur Król and Michal Myck)</span> 
-
-**Beyond the Résumé: Blind Hiring in a Multi-Stage Hiring Process** _[Draft Coming Soon!]_ <br>
-<span style="color: #808080;">(joint with Hee Sung Kim and Seung Yong Sung)</span>
 
 **Occupation-Specific Tax Exemption and Educational Choices** 
