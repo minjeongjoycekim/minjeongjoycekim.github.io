@@ -28,7 +28,7 @@ analytics:
 author:
   name          : "Minjeong Joyce Kim"
   avatar        : "joyce_profilephoto.jpg"                  # replace with your own file in /images/ if desired
-  bio           : "Ph.D. Candidate in Economics, University of Michigan"
+  bio           : "Ph.D. Candidate in Economics<br>University of Michigan"
   location      : "Ann Arbor, MI"
   email         : "joycekim@umich.edu"
   googlescholar : "https://scholar.google.com/citations?user=U4-DGMwAAAAJ"
