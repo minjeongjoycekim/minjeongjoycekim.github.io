@@ -69,7 +69,7 @@ author_profile: true
   <div class="reference-card">
     <h2>
       <a href="https://lsa.umich.edu/econ/people/faculty/jrhines.html" target="_blank" rel="noopener">
-        James Hines Jr. (Co-Chair)
+        James Hines Jr.
       </a>
       <span class="reference-role"></span>
     </h2>
@@ -98,7 +98,7 @@ author_profile: true
   <div class="reference-card">
     <h2>
       <a href="https://michiganross.umich.edu/faculty-research/faculty/joel-slemrod" target="_blank" rel="noopener">
-        Joel Slemrod (Co-Chair)
+        Joel Slemrod
       </a>
       <span class="reference-role"></span>
     </h2>
