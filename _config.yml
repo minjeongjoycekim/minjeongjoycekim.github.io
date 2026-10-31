@@ -3,7 +3,7 @@ locale          : "en-US"
 title           : "Minjeong Joyce Kim"
 title_separator : "-"
 name            : &name "Minjeong Joyce Kim"
-description     : &description "PhD Candidate in Economics, University of Michigan"
+description     : &description "Ph.D. Candidate in Economics, University of Michigan"
 url             : "https://minjeongjoycekim.github.io"  # change if your GitHub username is different
 baseurl         : ""                             # no subpath (user site)
 repository      : ""                             # optional: "username/username.github.io"
@@ -28,9 +28,8 @@ analytics:
 author:
   name          : "Minjeong Joyce Kim"
   avatar        : "joyce_profilephoto.jpg"                  # replace with your own file in /images/ if desired
-  bio           : "PhD Candidate in Economics, University of Michigan"
+  bio           : "Ph.D. Candidate in Economics, University of Michigan"
   location      : "Ann Arbor, MI"
-  employer      : "University of Michigan"
   email         : "joycekim@umich.edu"
   googlescholar : "https://scholar.google.com/citations?user=U4-DGMwAAAAJ"
   linkedin      : "www.linkedin.com/in/minjeong-joyce-kim"                             # optional: paste your LinkedIn URL here
