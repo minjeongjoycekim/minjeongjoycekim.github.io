@@ -78,6 +78,7 @@ During the COVID-19 pandemic, citizens of democratic nations faced a trade-off b
 <span style="color: #808080;">(joint with Hee Sung Kim and Seung Yong Sung)</span> <br>
 <details markdown="1">
 <summary>Abstract (click to expand)</summary>
+Hiring often combines resume screening with a subsequent technical assessment, yet evidence on the effects of blinding applicants' observables commonly focuses on an individual stage. We study the effect of blinding using 18 real applicant profiles evaluated by 137 human resources (HR) professionals and 153 software engineers. We vary demographic names across actual job applicants' profiles and randomly assign evaluators to either observe hypothetical names across six demographic groups or observe blinded names. Engineers also observe a proxy of workers' productivity that reflects the technical interviews common in the industry. We combine HR and engineer evaluations into two-stage funnels, as if HR screens and engineers then hire from a smaller subset of screened candidates. Across funnel configurations, estimated effects on average selected coding performance are small. The findings show that screening structure changes which demographic responses reach final selection and which groups benefit from blind hiring.
 </details>
 
 <hr>
