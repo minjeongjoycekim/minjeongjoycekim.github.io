@@ -17,7 +17,7 @@ My research interests are at the intersection of public and labor economics. I a
 ## Job Market Paper
 
 [<strong>Should Education Be Taxed or Subsidized? Optimal Policies with Signaling and Information</strong>](https://www.dropbox.com/scl/fi/mdbf4satqfrsm6ifxkdmm/optimal_tax_subsidy_signals_mjoycekim.pdf?rlkey=wmsnyffdqfll1cltyjx2fsfst&dl=0) <br>
-<details markdown="1">
+<details open markdown="1">
 <summary>Abstract (click to expand)</summary>
 Education can induce socially wasteful credential competition while providing information that improves worker--task assignment. I study jointly optimal nonlinear income taxes and education subsidies in a model where schooling raises productivity, signals ability through credentials, and improves worker-specific signal precision. Optimal education subsidies account for two effects that workers do not internalize: schooling's effects on income tax revenue, and the wage spillovers arising when aggregate schooling changes what credentials reveal about ability. Standard signaling models imply that governments can correct the second externality by taxing education, but incorporating worker-specific precision weakens this corrective motive by reducing employers' reliance on credentials. Precision also changes the earnings distribution and redistributive targeting through task assignment, supporting higher income taxes under strong redistributive preferences. Higher income taxes increase the revenue recaptured from schooling, strengthening the fiscal motive for subsidies that preserve investment incentives. As a result, education taxes are reduced, in some cases turning into subsidies. 
 </details>
