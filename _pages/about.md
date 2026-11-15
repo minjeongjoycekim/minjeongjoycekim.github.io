@@ -74,7 +74,7 @@ During the COVID-19 pandemic, citizens of democratic nations faced a trade-off b
 
 <br>
 
-<strong>Beyond the Résumé: Blind Hiring in a Multi-Stage Hiring Process</strong> _[Draft Coming Soon!]_<br> 
+[<strong>Beyond the Résumé: Blind Hiring in a Multi-Stage Hiring Process</strong>](https://www.dropbox.com/scl/fi/9p3659p8l7wk9mzdpqp5k/Blind_Hiring_draft_nov2026.pdf?rlkey=2sx6bemzr0bfb2fqdhhd009i6&st=3csqse5c&dl=0)<br> 
 <span style="color: #808080;">(joint with Hee Sung Kim and Seung Yong Sung)</span> <br>
 <details markdown="1">
 <summary>Abstract (click to expand)</summary>
