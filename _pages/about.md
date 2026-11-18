@@ -66,7 +66,7 @@ During the COVID-19 pandemic, citizens of democratic nations faced a trade-off b
 
 <br>
 
-<strong>Consequences of Exempting Young People from Income Tax: Earnings, Employment, and Education</strong> _[Draft Coming Soon!]_<br> 
+<strong>Consequences of Exempting Young People from Income Tax: Earnings, Employment, and Education</strong> _[Draft will be available in November 2026]_<br> 
 <span style="color: #808080;">(joint with Artur Król and Michal Myck)</span> <br>
 <details markdown="1">
 <summary>Abstract (click to expand)</summary>
